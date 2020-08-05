@@ -1,4 +1,4 @@
-//Written by Mason 2012
+
  
 #include <LiquidCrystal.h>
  
