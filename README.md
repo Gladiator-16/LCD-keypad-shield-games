@@ -1,1 +1,1 @@
-# LCD-keypad-shield-games
+# Collection of games for the Arduino LCD Keypad Shield
